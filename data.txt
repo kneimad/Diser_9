@@ -1,0 +1,1 @@
+Amikita: subList is a very powerful and useful mechanism. The documentation prescribes the idiom to remove a range of elements by theList.subList(from, to).clear(), for example.
